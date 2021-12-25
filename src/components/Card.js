@@ -13,7 +13,7 @@ function Card() {
       </div>
 
       <div className="card-body space-y-4">
-        <h3 className="text-white font-bold">Equilibrium #3429</h3>
+        <h3 className="text-white font-bold text-lg">Equilibrium #3429</h3>
         <p className="text-[#8bacda] font-light">
           Our Equilibrium collection promotes balance and calm.
         </p>
